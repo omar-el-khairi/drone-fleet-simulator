@@ -1,0 +1,13 @@
+C:\Users\khair\OneDrive\Desktop\projet_jee\drone-simulator\src\main\java\com\drone\simulator\Main.java
+C:\Users\khair\OneDrive\Desktop\projet_jee\drone-simulator\src\main\java\com\drone\simulator\io\ConfigurationReader.java
+C:\Users\khair\OneDrive\Desktop\projet_jee\drone-simulator\src\main\java\com\drone\simulator\basic\SimulatorBasic.java
+C:\Users\khair\OneDrive\Desktop\projet_jee\drone-simulator\src\main\java\com\drone\simulator\concurrent\DisplayWorker.java
+C:\Users\khair\OneDrive\Desktop\projet_jee\drone-simulator\src\main\java\com\drone\simulator\client\ConfigurationProvider.java
+C:\Users\khair\OneDrive\Desktop\projet_jee\drone-simulator\src\main\java\com\drone\simulator\concurrent\DroneWorker.java
+C:\Users\khair\OneDrive\Desktop\projet_jee\drone-simulator\src\main\java\com\drone\simulator\server\ServerConnectionHandler.java
+C:\Users\khair\OneDrive\Desktop\projet_jee\drone-simulator\src\main\java\com\drone\simulator\map\SimulatorMap.java
+C:\Users\khair\OneDrive\Desktop\projet_jee\drone-simulator\src\main\java\com\drone\simulator\client\DroneClient.java
+C:\Users\khair\OneDrive\Desktop\projet_jee\drone-simulator\src\main\java\com\drone\simulator\client\FileConfigurationProvider.java
+C:\Users\khair\OneDrive\Desktop\projet_jee\drone-simulator\src\main\java\com\drone\simulator\concurrent\SimulatorConcurrent.java
+C:\Users\khair\OneDrive\Desktop\projet_jee\drone-simulator\src\main\java\com\drone\simulator\server\DroneServer.java
+C:\Users\khair\OneDrive\Desktop\projet_jee\drone-simulator\src\main\java\com\drone\simulator\model\Drone.java
